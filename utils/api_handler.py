@@ -1,6 +1,6 @@
 #================================
 # Part 3: API Integration
-
+# API integration for product enrichment
 #================================
 # Task 3.1: Fetch Product Details
 
