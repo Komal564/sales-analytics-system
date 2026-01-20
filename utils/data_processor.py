@@ -70,6 +70,7 @@ def parse_and_clean_data(raw_lines):
 
 #=======================================
 # Task 1.3: Data Validation and filtering
+# Validation rules for sales records
 # Validation rules applied to cleaned sales records
 #=======================================
 #This function is used when we want to analyze sales
