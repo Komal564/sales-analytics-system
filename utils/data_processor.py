@@ -110,7 +110,7 @@ def validate_and_filter_sales(cleaned_data, selected_region=None):
 #=============================
 # Part 2: Data processing : This section shows business details like revenue, division performance, and product sales
 #=============================
-# Analytics calculations for revenue and sales metrics
+# # Sales metrics and revenue calculations
 
 # Task 2.1: Sales Summary Calculator
 #=====================================
