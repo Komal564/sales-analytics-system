@@ -127,7 +127,7 @@ def calculate_total_revenue(transactions):
 
 #=============================
 # b.Region-wise sales Analysis 
-# # Region-based filtering support for sales data
+# # Region-based filtering support
 #=============================
 # This function analyzes sales performance by region.
 # It helps compare which geographical area performs best
