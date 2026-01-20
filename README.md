@@ -181,3 +181,5 @@ It demonstrates effective handling of data quality issues, structured analytical
 The project clearly reflects the skills and understanding expected at the Module Developed by Komal Kaur Ladhar as an academic project.
 3 level and is suitable for academic evaluation and practical demonstration.
 
+Project developed and maintained by Komal Kaur Ladhar.
+
