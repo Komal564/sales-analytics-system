@@ -1,4 +1,5 @@
 # Parsing and cleaning logic for raw sales data
+# Data parsing and cleaning utilities
 
 #===================================
 # Task 1.2: parse_and_clean_data
