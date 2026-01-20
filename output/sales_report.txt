@@ -82,3 +82,5 @@ API ENRICHMENT SUMMARY
 Products Enriched: 70/70
 Success Rate: 100.0%
 All products were enriched successfully.
+-- Report generated successfully --
+
