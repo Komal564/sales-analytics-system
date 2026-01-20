@@ -306,7 +306,7 @@ def low_performing_products(transactions, threshold=10):
 # Part 3: API-Based Data Enrichment
 
 #====================================
-
+# Data enrichment using external API results
 #=================================
 # Task 3.2:Enrich Sales Data 
 #=================================
