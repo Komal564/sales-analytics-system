@@ -1,4 +1,4 @@
-# Entry point for running the sales analytics workflow
+## Controls the overall execution flow of the program
 #===========================
 # Part 5: Main Application:
 # The main workflow manages the processing, analysis, and reporting of data.
