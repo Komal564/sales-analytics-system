@@ -1,5 +1,7 @@
 #========================
 ## Part 1 :
+# File handler module for reading sales data
+
 #=========================
 # Data file Handler & Preprocessing
 
